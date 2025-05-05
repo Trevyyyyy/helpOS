@@ -12,7 +12,7 @@ Petit assistant sur un modèle LLM local (LM Studio) pour répondre à des quest
 
 1. Installer [LM Studio](https://lmstudio.ai)
 2. Charger un modèle compatible (ex : Mistral 7B, LLaMA 3, etc.)
-3. Lancer le serveur local : `http://127.0.0.1:1234`
+3. Lancer le serveur local 
 
 ## Amélioration 
 
